@@ -5,6 +5,7 @@ font-family: 'Dosis', sans-serif;
   margin-left: auto;
   margin-right: auto;
 }
-h1  {
+nav  {
+  display: inline-block;
   text-align: center;
 }
