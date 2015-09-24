@@ -9,3 +9,7 @@ nav  {
   display: inline-block;
   text-align: center;
 }
+.logo {
+  width: 1em;
+  height: 1em;
+}
