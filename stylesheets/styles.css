@@ -1,2 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Dosis:300);
 font-family: 'Dosis', sans-serif;
+.wrapper  {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
